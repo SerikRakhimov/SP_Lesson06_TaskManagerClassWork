@@ -1,0 +1,43 @@
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.exe.config
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.exe
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.pdb
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.g.resources
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.exe
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\TaskManagerClassWork.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\ru\EntityFramework.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.Migrations.M1.resources
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.dll
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.xml
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.Migrations.M1.resources
+C:\Users\РахимовС\source\repos\TaskManagerClassWork\TaskManagerClassWork\obj\Debug\TaskManagerClassWork.csproj.CopyComplete

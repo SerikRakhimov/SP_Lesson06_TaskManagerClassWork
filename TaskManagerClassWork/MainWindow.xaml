@@ -1,0 +1,83 @@
+﻿<Window x:Class="TaskManagerClassWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManagerClassWork"
+        mc:Ignorable="d"
+        Title="Планировщик задач" Height="450" Width="800" Closing="Window_Closing" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="200"/>
+            <RowDefinition Height ="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Vertical" Margin="5,20">
+            <StackPanel Orientation="Vertical">
+                <Label Content="Дата события:"/>
+                <DatePicker Name = "dpDate" Width="150" HorizontalAlignment="Left"/>
+                <Label Content="Время события:" Margin="0,20"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="часы = "/>
+                    <TextBox x:Name="txtHours" Width="30" Text="10"/>
+                    <Label Content="мин = "/>
+                    <TextBox Name="txtMinuts" Width="30" Text="00"/>
+                    <Label Content="сек = "/>
+                    <TextBox Name="txtSeconds" Width="30" Text="00" IsEnabled="False"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Vertical" Margin="0,20">
+            <StackPanel Orientation="Vertical">
+                <Label Content="Событие:"/>
+                <RadioButton Name="rbDownloadFile" GroupName="Events" Content="Скачать файл" IsChecked="True" Click="rbDownloadFile_Click" />
+                <RadioButton Name="rbMoveFolder" GroupName="Events" Content="Переместить каталог" Click="rbMoveFolder_Click" />
+                <RadioButton Name="rbSendEMAil" GroupName="Events" Content="Отправить EMail" Click="rbSendEMAil_Click" />
+                <Label Content="Периодичность:"/>
+                <RadioButton Name="rbOneTime" GroupName="Periodcities" Content="Единоразово" IsChecked="True" />
+                <RadioButton Name="rbEveryDay" GroupName="Periodcities" Content="Каждый день" />
+                <RadioButton Name="rbEveryMonth" GroupName="Periodcities" Content="Каждый месяц" />
+                <RadioButton Name="rbEveryYear" GroupName="Periodcities" Content="Каждый год" />
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="2" Grid.Row="0" Orientation="Vertical" Margin="0,50" >
+            <Button Name ="btnOk" Content="Ok - сохранить и запустить событие" Click="Ok_Click" Width ="220" Height="36"/>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3"  Orientation="Vertical" Margin="0,20">
+            <StackPanel Name="spDownloadFile" Orientation="Vertical">
+                <Label Content="Скачать файл:"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="URL, откуда скачать файл = "/>
+                    <TextBox Name="txtFromFile" Width="200" Text="https://tophotels.ru/icache/hotel_photos/83/16/30978/430605_119x119.jpg"/>
+                    <Label Content="Папка, куда скачать файл = "/>
+                    <TextBox Name="txtToFile" Width="200" Text="D:"/>
+                    <Button Name="btToFile" Content="..." Width="30" Click="btToFile_Click"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Name="spMoveFolder" Orientation="Vertical">
+                <Label Content="Переместить папку:"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Папка для перемещения = "/>
+                    <TextBox Name="txtFromFolder" Width="200" Text="d:\src"/>
+                    <Button Name="btFromFolder" Content="..." Width="30" Click="btFromFolder_Click" />
+                    <Label Content="Папка, куда переместить = "/>
+                    <TextBox Name="txtToFolder" Width="200" Text="d:\desc"/>
+                    <Button Name="btToFolder" Content="..." Width="30" Click="btToFolder_Click" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Name="spSendEmail" Orientation="Vertical">
+                <Label Content="Отправить Email:"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Кому = "/>
+                    <TextBox Name="txtWhom" Width="200" Text="s_astana@mail.ru"/>
+                    <Label Content="Текст письма = "/>
+                    <TextBox Name="txtText" Width="200" Text="Тестовое сообщение"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
